@@ -1,7 +1,7 @@
 <div align = "center">
 
 <!--   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsules%20render&fontSize=90) -->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Hello%20There!!!&desc=Glen!%20Gu%20Hyup%20&descSize=20&descAlignY=80&fontSize=50)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Hello%20There!!!&desc=Glen!<!--%20Gu%20Hyup-->%20&descSize=20&descAlignY=80&fontSize=50)
   
 ### Hello there!!! 👋
 
